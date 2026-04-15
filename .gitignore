@@ -129,3 +129,17 @@ dmypy.json
 .pyre/
 
 /.vscode/*
+/.claude/*
+/.qoder/*
+/.opencode/*
+
+*.rar
+*.zip
+*.7z
+*.tgz
+*.tar
+*.gz
+*.xz
+*.o
+*.pyo
+*.exe
